@@ -70,7 +70,7 @@ h2.slogan {
 #section-section2 {
     background: #16a085 url(../images/happy.gif) top center;
 }
-
+/*
 #section-section3 {
     background: #27ae60 url(../images/happybirthday.gif) top center;
 }
@@ -78,7 +78,7 @@ h2.slogan {
 #section-section4 {
     background: #c0392b url(../images/happy.gif) top center;
 }
-
+*/
 .horizon-prev, .horizon-next {
     position: fixed;
     top: 50%;
